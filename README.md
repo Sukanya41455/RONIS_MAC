@@ -1,6 +1,6 @@
 # Roni's Mac Bar Dashboard
 **"Empowering Roni's Mac Bar with data-driven insights for smarter decisions and improved operations."**
-https://public.tableau.com/app/profile/asmita.desai/viz/RONIsMACBAR-DASHBOARDINSIGHTS/RONIS
+
 ---
 
 ## Overview
@@ -72,3 +72,4 @@ Once linked, refresh the data in Tableau to update all visualizations.
 - **Custom Filtering**: Apply filters to focus on specific time periods or categories, providing insights for targeted strategies.
 
 ---
+https://public.tableau.com/app/profile/asmita.desai/viz/RONIsMACBAR-DASHBOARDINSIGHTS/RONIS
